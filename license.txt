@@ -1,0 +1,11 @@
+Model Information:
+* title:	3d Printer With Apple Laptop
+* source:	https://sketchfab.com/3d-models/3d-printer-with-apple-laptop-ab3e2fab316a4bf8ad0ea8520b2b75ec
+* author:	madman982 (https://sketchfab.com/madman982)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3d Printer With Apple Laptop" (https://sketchfab.com/3d-models/3d-printer-with-apple-laptop-ab3e2fab316a4bf8ad0ea8520b2b75ec) by madman982 (https://sketchfab.com/madman982) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
